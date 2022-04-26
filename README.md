@@ -1,4 +1,5 @@
-# apk2
+tools文件夹中的反编译工具说明
+
 
 反编译三件套：
 apktool：反编译资源文件和Manifest文件
